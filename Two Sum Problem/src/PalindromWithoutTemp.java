@@ -7,6 +7,7 @@ public class PalindromWithoutTemp {
             System.out.println(str + ":Is A Palindrom");
         } else {
             System.out.println(str + ":Is Not a Palindrom");
+            System.out.println("Not Palindron String");
         }
     }
 
