@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Coding Questions/ClimeStairsMap/ClimeStairsMap.iml" filepath="$PROJECT_DIR$/Java Coding Questions/ClimeStairsMap/ClimeStairsMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Coding Questions/Java Coding Questions.iml" filepath="$PROJECT_DIR$/Java Coding Questions/Java Coding Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Preparation data.iml" filepath="$PROJECT_DIR$/.idea/Java Preparation data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Largest-3-No/Largest-3-No.iml" filepath="$PROJECT_DIR$/Largest-3-No/Largest-3-No.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Coding Questions/PalindromNumberCheck/PalindromNumberCheck.iml" filepath="$PROJECT_DIR$/Java Coding Questions/PalindromNumberCheck/PalindromNumberCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring BOt Actuator/Spring BOt Actuator.iml" filepath="$PROJECT_DIR$/Spring BOt Actuator/Spring BOt Actuator.iml" />
+    </modules>
+  </component>
+</project>
